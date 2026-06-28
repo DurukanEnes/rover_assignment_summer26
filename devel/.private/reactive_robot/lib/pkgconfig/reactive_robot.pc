@@ -1,0 +1,8 @@
+prefix=/home/enesd/rover_ws/devel/.private/reactive_robot
+
+Name: reactive_robot
+Description: Description of reactive_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

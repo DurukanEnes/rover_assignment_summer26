@@ -1,0 +1,6 @@
+devel_space: /home/enesd/rover_ws/devel
+install: false
+install_space: /home/enesd/rover_ws/install
+profile: default
+source_space: /home/enesd/rover_ws/src
+workspace: /home/enesd/rover_ws

@@ -1,0 +1,1 @@
+/home/enesd/rover_ws/devel/.private/catkin_tools_prebuild/setup.fish

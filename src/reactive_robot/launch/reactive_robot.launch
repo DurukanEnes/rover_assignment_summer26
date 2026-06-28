@@ -1,0 +1,9 @@
+<launch>
+    <include file="$(find reactive_robot_sim)/launch/reactive_robot_sim.launch" />
+    <node pkg="reactive_robot" type="reactive_robot_node.py" name="reactive_robot_node" output="screen">
+        <param name="forward_linear_speed" value="0.7" />
+        <param name="turn_linear_speed"    value="0.3" />
+        <param name="turn_angular_speed"   value="0.6" />
+        <param name="obstacle_threshold"   value="2.3" />
+    </node>
+</launch>
